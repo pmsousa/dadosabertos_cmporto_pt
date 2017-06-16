@@ -43,3 +43,7 @@ docs/_build/
 
 # IDEs
 .idea
+
+# CKAN Environment files
+ckan.environment
+db.environment
